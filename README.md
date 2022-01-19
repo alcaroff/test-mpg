@@ -10,7 +10,7 @@ npm i && npm run start
 
 ## 2. Endpoint de récupération des utilisateurs d'une ligue
 
-`Objectif: Pour un leagueId, récupérer les noms des utilisateurs présents dans la ligue`
+Objectif: Pour un leagueId, récupérer les noms des utilisateurs présents dans la ligue
 
 ### Endpoint:
 
@@ -22,7 +22,7 @@ npm i && npm run start
 
 ## 3. Endpoint de création de league
 
-`Objectif: Ajouter un document de type league à la base`
+Objectif: Ajouter un document de type league à la base
 
 ### Endpoint:
 
@@ -34,7 +34,7 @@ npm i && npm run start
 
 ## 4. Endpoint de modification de la team
 
-`Objectif: Pour un teamId, modifier le nom de la team`
+Objectif: Pour un teamId, modifier le nom de la team
 
 ### Endpoint:
 

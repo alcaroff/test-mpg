@@ -5,7 +5,7 @@
 ## Get started
 
 ```bash
-npm i && npm run start
+npm i && npm start
 ```
 
 ## 2. Endpoint de récupération des utilisateurs d'une ligue
